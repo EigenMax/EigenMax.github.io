@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Computers, Soccer, and The Blaring ~Roaring~ 20s"
+title: "Computers, Soccer, and The Blaring ~~Roaring~~ 20s"
 date: 2019-12-25
 description: "I think I'll regret writing this"
 img: we-in-rest.jpg # add image post
@@ -18,6 +18,7 @@ and soccer. I'll break down my thoughts into smaller subparts as well. Enjoy!
 
 ## Classes 
 
+A year and a half ago, when I got into the CSE Department, I told myself that I would care less about my grades. I wanted to shift my focus from grades to academics. The 
 
 ## Internships and Interviews 
 
@@ -27,5 +28,5 @@ and soccer. I'll break down my thoughts into smaller subparts as well. Enjoy!
 
 ## Seattle Sounders F.C.
 
-# The Blaring ~Roaring~ 20s
+# The Blaring ~~Roaring~~ 20s
 
