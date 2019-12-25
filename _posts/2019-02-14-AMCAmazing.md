@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "You are AMC Amazing"
+title: "You are AMC Amazing"
 date: 2017-08-15
 description: "I wrote this back in High School. It's embarrassing but I thought I'd share it here"
-img: amc-theaters-logo.jpg
-fig-cation:
+img: amc-theaters-logo.jpg # add image post
+fig-caption:
 tag: [AMC, Blog]
 ---
 
