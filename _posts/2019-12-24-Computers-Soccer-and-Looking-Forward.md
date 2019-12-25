@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Computers, Soccer, and the Roaring 20s"
+title: "Computers, Soccer, and The Blaring ~Roaring~ 20s"
 date: 2019-12-25
 description: "I think I'll regret writing this"
 img: we-in-rest.jpg # add image post
@@ -20,4 +20,12 @@ and soccer. I'll break down my thoughts into smaller subparts as well. Enjoy!
 
 
 ## Internships and Interviews 
+
+# Soccer/Football
+
+## Manchester United 
+
+## Seattle Sounders F.C.
+
+# The Blaring ~Roaring~ 20s
 
