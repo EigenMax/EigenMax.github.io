@@ -7,6 +7,9 @@ img: uw_cse.jpg
 fig-caption:
 tag: [CSE, The University of Washington]
 ---
+
+### I finished my first year of college.
+
 Let me preface my bitterness by saying that I somewhat have a superiority complex. I get good grades and do it with relative little stress. Sometimes I look down on others because they struggle to do tasks that I think are simple. Yet, arrogance is a trait present only in those that feel the need to feel superior, and that need stems from insecurity. So let me conclude my preface by saying this: superiority complex comes hand-in-hand with an inferiority complex and, thus, I am both arrogant and critical of myself.
 
 Many of my friends are highly accomplished individuals – some attend Ivy leagues or prestigious schools on the East coast, participate in research or internships during the summer, and are overall well-rounded scholars. Being friends with these people, I often feel left behind, “merely” attending a school of the UW’s caliber and having little-to-no extracurriculars to match up with my peers. As a result, I compensate by pouring in a praiseworthy amount of effort to maintain a good GPA, and I can proudly say that my grades reflect my effort, and vice versa. Yet, grades can only reflect so much of your intellect, and a person is defined much more by what he/she does outside of school than inside the strict realm of academia. Talented individuals are talented because they put in a lot of effort to pursue their passions, but effort is meaningless unless it is applied in a smart and efficient way. 

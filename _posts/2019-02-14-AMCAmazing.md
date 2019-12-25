@@ -8,6 +8,8 @@ fig-caption:
 tag: [AMC, Blog]
 ---
 
+### I wrote this back in high schoool. It's pretty embarrassing.
+
 Bouncer /NOUN/ [baun-ser]: one that bounces: such as a. One employed to restrain or eject disorderly persons b. A bouncing ground ball
 
 When you imagine a bouncer, a stocky, muscular man in a suit with dark-tinted sunglasses pops up to mind. He has a low, gruff voice and marshalls the entrance door, upholding an absolute no-nonsense policy, ready to pounce on the first rat that tries to squeak past him. Undesirables are mercilessly cast away to the side, and only those with exclusive prerogative are welcomed by the intimidating man. 
