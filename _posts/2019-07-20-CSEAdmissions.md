@@ -8,7 +8,7 @@ fig-caption:
 tag: [CSE, The University of Washington]
 ---
 
-*Placeholder sentence to avoid previews!! These blog posts are little excerpts are meant for me introspection, as well as improve my writing skills.* 
+> *These blog posts are little excerpts are meant for me introspection, as well as improve my writing skills.* 
 
 Let me preface my bitterness by saying that I somewhat have a superiority complex. I get good grades and do it with relative little stress. Sometimes I look down on others because they struggle to do tasks that I think are simple. Yet, arrogance is a trait present only in those that feel the need to feel superior, and that need stems from insecurity. So let me conclude my preface by saying this: superiority complex comes hand-in-hand with an inferiority complex and, thus, I am both arrogant and critical of myself.
 
