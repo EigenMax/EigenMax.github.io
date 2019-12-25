@@ -8,7 +8,7 @@ fig-caption:
 tag: [AMC, Blog]
 ---
 
-### I wrote this back in high schoool. It's pretty embarrassing.
+Placeholder sentence to avoid previews!!
 
 Bouncer /NOUN/ [baun-ser]: one that bounces: such as a. One employed to restrain or eject disorderly persons b. A bouncing ground ball
 
