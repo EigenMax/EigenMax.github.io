@@ -3,7 +3,7 @@ layout: post
 title:  "My Reflection on my First Year at UW and CSE Admissions"
 date:   2018-07-20
 excerpt: "I finished my first year of college. "
-img: 
+img: uw_cse.jpg
 fig-caption:
 tag: [CSE, The University of Washington]
 ---
