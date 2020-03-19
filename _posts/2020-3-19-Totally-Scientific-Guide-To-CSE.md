@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Totally Scientific Guide To CSE Classes"
-date: 2019-12-25
+date: 2020-3-19
 description: "I think I'll regret writing this"
-img: we-in-rest.jpg # add image post
+img: mac.jpg # add image post
 fig-caption:
 tag: [Computer Science, University of Washington]
 ---
