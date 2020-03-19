@@ -5,11 +5,11 @@ description: > # this means to ignore newlines until "baseurl:"
   be nice if no one found me though!! 
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://eigenmax.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://minumaro.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: EigenMax # add your name
+author: MinuMaro # add your name
 author-img: togata.png # add your photo
 about-author: I am a third-year student at UW studying CSE! Pleased to /meet/ you # add description
 social-twitter: # add your Twitter handle
