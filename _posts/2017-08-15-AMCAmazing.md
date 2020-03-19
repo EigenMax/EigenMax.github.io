@@ -8,7 +8,8 @@ fig-caption:
 tag: [AMC, Blog]
 ---
 
-> *These blog posts and little excerpts are meant for introspection, as well as to improve my writing skills.*
+> *“I don't want to repeat my innocence. I want the pleasure of losing it again.”*
+> ― F. Scott Fitzgerald, This Side of Paradise
 
 Bouncer /NOUN/ [baun-ser]: one that bounces: such as a. One employed to restrain or eject disorderly persons b. A bouncing ground ball
 
