@@ -17,10 +17,10 @@ For some additional context, I started UW in September 2017, and took my first C
 
 # Intro: 
 --- 
-## CSE 142 
+### CSE 142 
 - Teacher       : Whitaker Brand
 - Grade received: 4.0
-- Approval Score: 90% 
+- Approval Score: 75% 
 - Fun Fact      : I also TAed this class
 
 To be honest, I wasn't sure if I should have taken this class. I already took AP Computer Science in high school, which meant I could skip ahead to take CSE 143 instead. Despite my worries, I enrolled in it due to advice on Reddit that said it would help with "style points." For those of you that don't know what that means, "style points" are basically points allocated to students' homework scores based on how clean and concise their code is. You are generally awarded points for following the rules on their style guide, as well as by making sure you apply the concepts you learned in class to your homework. Honestly speaking, the grading system used can be quite brutal, and I've seen many students lose points for very trivial things. 
@@ -30,7 +30,7 @@ For me, the idea behind taking this class was that I could focus on learning how
 - Do you think you write good clean code?
 - How much practice do you want before you take CSE 143 (assuming you do take it)
 
-## CSE 143
+### CSE 143
 - Teacher       : Stuart Reges
 - Grade received: 4.0
 - Approval Score: 95% 
@@ -42,3 +42,20 @@ Stuart is a phenomenal instructor, and I'm extremely glad I got to take the clas
 # You're a CSE Major... Now what?
 --- 
 
+### CSE 311
+- Teacher       : Kevin Zatloukal
+- Grade received: 3.8
+- Approval Score: 75% 
+This was the first class I took as an in-major CSE student. While my grade doesn't reflect it, I struggled a lot in this class. Before taking this class, I took PHIL 120, which was the baby class version of CSE 311. As such, I knew about some of the concepts taught in CSE 311 before taking it... and it only helped me for the first 3 weeks of class. In my experience, this class is fast-paced and intense. When you don't understand something, you better catch up fast or you'll get left behind. At this point, I'm not really sure why the CSE department course a requirement course because I'm pretty positive I could survive/succeed as a CS major without having ever taken this class. 
+
+The earlier concepts taught in this class (boolean logic/algebra, proofs) were very interesting, but, some of the later concepts (regular expressions, DFA/NFAs) seemed abstract and I found it hard to grasp. I didn't like it. Looking back on it, the class is probably geared towards studying Computer Science as a field, not about programming (althought it can definitely help with your programming skills). 
+
+### CSE 351
+- Teacher       : Ruth Anderson
+- Grade received: 3.8
+- Approval Score: 95%
+CSE 351 focuses on lower level programming. In particular, the class is mainly interested in things like memory allocation, pointers, etc. You also learn Assembly (yuck) and how to read it, as well as how computers read and interpret bits and how virtual memory works. Although everyone's experiences vary, I found the class to be really enjoyable. The homeworks weren't particularly hard, the TAs were nice, and the professor really cared about our education. Although there were definitely some concepts I couldn't grasp in that class, I thought it was really cool to learn about how computers operate at the hardware/software interface, and it served as a nice segway to learn about the C programming language.
+
+
+
+# Everything is still a work in progress. 
