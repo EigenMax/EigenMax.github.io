@@ -19,4 +19,5 @@ So I'm going to cheat a little bit and write about something I learned from a vi
 
 <img src="../assets/img/ReLU.jpg" width="400" height="300">
 <img src="../assets/img/sigmoid.JPG" width="400" height="300">
-<sup> Source: images made by myself using [desmos](https://www.desmos.com/calculator) </sup>
+
+<sup> Source: images made using [desmos](https://www.desmos.com/calculator) </sup>
