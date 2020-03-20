@@ -5,7 +5,7 @@ date: 2017-08-15
 description: "I wrote this back in High School. It's embarrassing but I thought I'd share it here"
 img: amc-theaters-logo.jpg # add image post
 fig-caption:
-tag: [AMC, Blog]
+tag: [AMC]
 ---
 
 > *“I don't want to repeat my innocence. I want the pleasure of losing it again.”*

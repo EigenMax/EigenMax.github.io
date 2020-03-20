@@ -5,7 +5,7 @@ date:   2018-07-20
 excerpt: "I finished my first year of college. "
 img: uw_cse.jpg
 fig-caption:
-tag: [CSE, The University of Washington]
+tag: [Computer Science, University of Washington]
 ---
 
 > *“He thinks himself rather an exceptional young man, thoroughly sophisticated, well adjusted to his environment, and somewhat more significant than any one else he knows.”*
