@@ -16,6 +16,7 @@ As my third year of college starts to wrap up, I decided to reflect on the class
 For some additional context, I started UW in September 2017, and took my first CSE class in Winter '18. Since then, I've taken a total of 13 CSE classes, and maintained a ~3.8 GPA in these classes. I'm going to separate these courses in __ categories (Intro, ). Feel free to skip around :)
 
 # Intro: 
+--- 
 ## CSE 142 
 - Teacher       : Whitaker Brand
 - Grade received: 4.0
@@ -30,19 +31,14 @@ For me, the idea behind taking this class was that I could focus on learning how
 - How much practice do you want before you take CSE 143 (assuming you do take it)
 
 ## CSE 143
-
----
-Teacher       : Stuart Reges
-
-Grade received: 4.0
-
-Approval Score: 95% 
-
-Fun Fact      : I also TAed this class
-
----
+- Teacher       : Stuart Reges
+- Grade received: 4.0
+- Approval Score: 95% 
+- Fun Fact      : I also TAed this class
 
 Stuart is a phenomenal instructor, and I'm extremely glad I got to take the class under him. He made lectures really easy to understand, and I felt he taught me a lot about programming. In terms of course content, you learn about stacks/queues, linkedlists, maps, as well as about how some of these data structures are implemented. I thought it was a great way to learn about Object-Oriented Programming, and I really recommend anyone even slightly interested in programming to take this course. You learn that there's a lot more to programming than just what you learn in CSE 142 (which, in my opinion, is really limited and fairly mundane). You also learn to program a lot of cool projects in your homeworks, which was nice as well. In terms of difficulty, you have to dedicate a good chunk of time to thinking about HOW to approach your projects. A lot of the projects you complete don't have an easy "correct solution," and you'll have to spend a lot of time thinking about how to implement your code. On the flip side, it was also easier to structure your projects because they tell you what sort of methods and constructors you need in your homework. Other than that, as long as you stay on top of your homework, I think you'll enjoy taking this course. 
 
+
 # You're a CSE Major... Now what?
+--- 
 
