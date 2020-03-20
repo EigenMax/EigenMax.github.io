@@ -17,6 +17,6 @@ tag: [Research]
 
 So I'm going to cheat a little bit and write about something I learned from a video, not a research paper. Most everyone knows that a reason why Deep Learning is more popular these days is that they have large amounts of data to work with. Lesser known (I think), is that another big reason for their success is that computations have gotten faster. Traditionally, neural networks have used sigmoid functions for their activation functions. However, sigmoid functions can be slow because, at the tail ends of the graph (as x approaches negative infinity or positive infinity), their gradients are near 0. Since the gradients are near zero, these neural networks "learn" at a much slower rate. More recently, researchers have switched over to a ReLU activation function, which stands for Rectified Linear Unit. In a ReLU graph, you see that the gradients at values where x is greater than 0 will have much higher gradients than those at in the sigmoid function. Since the gradients are greater, the algorithms can learn at a much faster rate.
 
-![ReLU](../assets/img/ReLU.jpg "ReLU")
+![ReLU](../assets/img/ReLU.jpg "ReLU" =500x)
 
-![Sigmoid](../assets/imgsigmoid.png "Sigmoid")
+![Sigmoid](../assets/img/sigmoid.png =500x "Sigmoid")
