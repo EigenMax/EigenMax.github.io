@@ -17,13 +17,10 @@ For some additional context, I started UW in September 2017, and took my first C
 
 # Intro: 
 ## CSE 142 
-> Teacher       : Whitaker Brand
-
-> Grade received: 4.0
-
-> Approval Score: 90% 
-
-> Fun Fact      : I also TAed this class
+- Teacher       : Whitaker Brand
+- Grade received: 4.0
+- Approval Score: 90% 
+- Fun Fact      : I also TAed this class
 
 To be honest, I wasn't sure if I should have taken this class. I already took AP Computer Science in high school, which meant I could skip ahead to take CSE 143 instead. Despite my worries, I enrolled in it due to advice on Reddit that said it would help with "style points." For those of you that don't know what that means, "style points" are basically points allocated to students' homework scores based on how clean and concise their code is. You are generally awarded points for following the rules on their style guide, as well as by making sure you apply the concepts you learned in class to your homework. Honestly speaking, the grading system used can be quite brutal, and I've seen many students lose points for very trivial things. 
 
@@ -33,7 +30,7 @@ For me, the idea behind taking this class was that I could focus on learning how
 - How much practice do you want before you take CSE 143 (assuming you do take it)
 
 ## CSE 143
-⋅⋅⋅Teacher       : Stuart Reges⋅⋅
+   Teacher       : Stuart Reges  
 > Grade received: 4.0
 > Approval Score: 95% 
 > Fun Fact      : I also TAed this class
