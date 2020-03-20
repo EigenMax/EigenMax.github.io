@@ -19,4 +19,4 @@ So I'm going to cheat a little bit and write about something I learned from a vi
 
 ![ReLU](../assets/img/ReLU.jpg =500x "ReLU")
 
-![Sigmoid](../assets/img/sigmoid.png =500x "Sigmoid")
+![Sigmoid](../assets/img/sigmoid.png =500x)
