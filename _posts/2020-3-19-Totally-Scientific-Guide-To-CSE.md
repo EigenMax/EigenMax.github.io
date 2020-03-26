@@ -13,7 +13,7 @@ tag: [Computer Science, University of Washington]
 
 As my third year of college starts to wrap up, I decided to reflect on the classes I've taken as a Computer Science major and document my thoughts about them here. Hopefully, someday, some UW CSE student will find this and use this as another resource for picking classes. 
 
-For some additional context, I started UW in September 2017, and took my first CSE class in Winter '18. Since then, I've taken a total of 13 CSE classes, and maintained a ~3.8 GPA in these classes. I'm going to separate these courses in __ categories (Intro, ). Feel free to skip around :)
+For some additional context, I started UW in September 2017, and took my first CSE class in Winter '18. Since then, I've taken a total of 13 CSE classes, and maintained a ~3.8 GPA in these classes. I'm going to separate these courses in 3 categories (Intro, Cores, and Electives). Feel free to look around :)
 
 # Intro: 
 --- 
