@@ -21,3 +21,7 @@ So I'm going to cheat a little bit and write about something I learned from a vi
 <img src="../assets/img/sigmoid.JPG" width="400" height="300">
 
 <sup> Source: images made using [desmos](https://www.desmos.com/calculator) </sup>
+
+## Other papers worth your time 
+
+[One Hundred Year Study on Artificial Intellligence](https://ai100.stanford.edu/sites/g/files/sbiybj9861/f/ai100report10032016fnl_singles.pdf) 
