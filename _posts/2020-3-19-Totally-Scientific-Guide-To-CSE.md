@@ -9,7 +9,7 @@ tag: [Computer Science, University of Washington]
 ---
 
 > *"Old Sam Hamilton saw this coming. He said there couldn't be any more universal philosophers. The weight of knowledge is too great for one mind to absorb. He saw a time where one man would know only one little fragment, but he would know it well."*
-> - John Steinbeck, East of Eden
+> - John Steinbeck, *East of Eden*
 
 As my third year of college starts to wrap up, I decided to reflect on the classes I've taken as a Computer Science major and document my thoughts about them here. Hopefully, someday, some UW CSE student will find this and use this as another resource for picking classes. 
 
