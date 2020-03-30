@@ -17,9 +17,9 @@ A few days ago, I was reading an article about retaining information you read ab
 
 --- 
 
-### Lecture 1: March 30, 2020
+## Lecture 1: March 30, 2020
 
-##### Question 1: What is the structure of a Compiler? 
+#### Question 1: What is the structure of a Compiler? 
 - Answer: Conceptually, a compiler has a front end and a back end. The front end take in source code and compiles it into an intermediate representation. Then, the back-end translates it into target code for machines to read and execute.
 
 ##### Question 2: What does the front end consist of? 
