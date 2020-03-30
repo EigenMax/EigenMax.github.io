@@ -22,19 +22,18 @@ A few days ago, I was reading an article about retaining information you read ab
 #### Question 1: What is the structure of a Compiler? 
 - Answer: Conceptually, a compiler has a front end and a back end. The front end take in source code and compiles it into an intermediate representation. Then, the back-end translates it into target code for machines to read and execute.
 
-##### Question 2: What does the front end consist of? 
+#### Question 2: What does the front end consist of? 
 
-Answer: The front end consists of the Scanner, Parser, and also performs Semantic Analysis. 
+- Answer: The front end consists of the Scanner, Parser, and also performs Semantic Analysis. 
 
-##### Question 3: What does the back end consist of? 
+#### Question 3: What does the back end consist of? 
 
-Answer: The back end consists of target code generation and optimization.
+- Answer: The back end consists of target code generation and optimization.
 
-##### Question 4: What does the Scanner do?
+#### Question 4: What does the Scanner do?
 
-Answer: The scanner parses source code and tokenizes the necessary code. It creates a token stream. 
+- Answer: The scanner parses source code and tokenizes the necessary code. It creates a token stream. 
 
-##### Question 5: What does the Parser do? 
+#### Question 5: What does the Parser do? 
 
-Answer: The parser takes the token stream and creates a Intermediate Representatins (IR). This is usually an Abstract Syntax Tree (AST).
-
+- Answer: The parser takes the token stream and creates a Intermediate Representatins (IR). This is usually an Abstract Syntax Tree (AST).
