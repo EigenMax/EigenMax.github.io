@@ -20,13 +20,18 @@ A few days ago, I was reading an article about retaining information you read ab
 <details>
 <summary>
 
-### Lecture 1: March 30, 2020
+Lecture 1: March 30, 2020
 
 </summary>
 
+
+<details>
+<summary>
 #### Question 1: What is the structure of a Compiler? 
+</summary>
 
 - Answer: Conceptually, a compiler has a front end and a back end. The front end take in source code and compiles it into an intermediate representation. Then, the back-end translates it into target code for machines to read and execute.
+</details>
 
 #### Question 2: What does the front end consist of? 
 - Answer: The front end consists of the Scanner, Parser, and also performs Semantic Analysis. 
@@ -48,3 +53,5 @@ A few days ago, I was reading an article about retaining information you read ab
 <summary>
 Textbook Reading: Chapters 1 & 2.1-2.3
 </summary>
+
+</details>
