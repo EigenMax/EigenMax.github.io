@@ -25,7 +25,7 @@ discus-identifier: # add your discus identifier
 analytics: # Google Analytics
 
 # Build Settings
-markdown: kramdown
+markdown: CommonMarkGhPages # kramdown
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
