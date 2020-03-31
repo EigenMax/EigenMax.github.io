@@ -19,7 +19,9 @@ A few days ago, I was reading an article about retaining information you read ab
 
 <details>
 <summary>
-Lecture 1: March 30, 2020
+
+### Lecture 1: March 30, 2020
+
 </summary>
 
 #### Question 1: What is the structure of a Compiler? 
@@ -41,3 +43,8 @@ Lecture 1: March 30, 2020
 </details>
 
 ---
+
+<details>
+<summary>
+Textbook Reading: Chapters 1 & 2.1-2.3
+</summary>
