@@ -64,3 +64,28 @@ Textbook Reading: Chapters 1 & 2.1-2.3
 - An NFA allows transitions on the empty string, and states that have multiple transitions on the same character
 
 </details>
+
+---
+
+<details>
+<summary>
+Lecture 2: April 1st, 2020
+</summary>
+
+#### Question 1: What is the Principle of Longest Match?
+
+- scanner picks the longest possible string to make up the next token if there is a choice. For example, the word "iffy" will be interpreted as "iffy" instead of "if fy", even though there is an "if" keyword in the string.
+
+#### Question 2: What is an automaton?
+
+- a recognizer of a language. It validates a string by confirming or rejecting a string as part of a language. 
+
+#### Question 3: What is a Grammar?
+
+- A generator; a system for producing all strings in the language.
+
+#### Question 4: What is a Production?
+
+- rules of a grammar
+
+</details>
