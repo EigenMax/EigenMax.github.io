@@ -25,7 +25,6 @@ Lecture 1: March 30, 2020
 #### Question 1: What is the structure of a Compiler? 
 - Answer: Conceptually, a compiler has a front end and a back end. The front end take in source code and compiles it into an intermediate representation. Then, the back-end translates it into target code for machines to read and execute.
 
-
 #### Question 2: What does the front end consist of? 
 - Answer: The front end consists of the Scanner, Parser, and also performs Semantic Analysis. 
 
@@ -36,7 +35,7 @@ Lecture 1: March 30, 2020
 - Answer: The scanner parses source code and tokenizes the necessary code. It creates a token stream. 
 
 #### Question 5: What does the Parser do? 
-- Answer: The parser takes the token stream and creates a Intermediate Representatins (IR). This is usually an Abstract Syntax Tree (AST).
+- Answer: The parser takes the token stream and creates a Intermediate Representations (IR). This is usually an Abstract Syntax Tree (AST).
 
 </details>
 
@@ -46,5 +45,22 @@ Lecture 1: March 30, 2020
 <summary>
 Textbook Reading: Chapters 1 & 2.1-2.3
 </summary>
+
+#### Question 1: What do you call a compiler that output other programming languages? 
+- source-to-source compilers
+
+
+#### Question 2: What is the Kleene closure?
+
+- the union of concatenations of a regular expression R with itself, zero or more times.
+
+#### Question 3: What operator (^) is this? How about epislon?
+
+- the complement operator
+- eplison is the empty string 
+
+#### Question 4: How are non-deterministic automaton different from deterministic automaton?
+
+- An NFA allows transitions on the empty string, and states that have multiple transitions on the same character
 
 </details>
