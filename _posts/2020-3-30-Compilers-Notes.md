@@ -89,3 +89,18 @@ Lecture 2: April 1st, 2020
 - rules of a grammar
 
 </details>
+
+<details>
+<summary>
+Lecture 3/4: April 3rd and 6th, 2020
+</summary>
+
+#### When converting characters into tokens, how do scanners differentiate between similar tokens (ex: != vs !True)?
+
+- At the conceptual level, you can think of your scanner almost "peeking" one character ahead. Since there's no way to tell if ! implies the neq symbol or a negation, the scanner has to look one ahead.
+
+#### How do you implement DFAs as code? 
+
+- You can do one of several things, including implementing the DFA by hand (lots of tedious code but fast) and using a tool to generate table driven scanners.  
+
+</details>
